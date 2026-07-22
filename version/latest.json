@@ -1,6 +1,15 @@
 {
   "schema_version": 1,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "channel": "stable",
-  "assets": []
+  "assets": [
+    {
+      "platform": "macos",
+      "architecture": "arm64",
+      "filename": "TE_TAM_Org_Level_Test_Results_v020.zip",
+      "url": "https://raw.githubusercontent.com/jduenasp-te/te_tam_org_level_test_results_PUBLIC/main/dist/TE_TAM_Org_Level_Test_Results_v020.zip",
+      "size": 30177148,
+      "sha256": "64533d898fa5f253994b27a35ab0e5a57cdde5fafb070257f400524514392410"
+    }
+  ]
 }
